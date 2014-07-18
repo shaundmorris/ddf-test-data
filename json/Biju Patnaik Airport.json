@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Biju Patnaik Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.orissadiary.com/shashwat/images/allnewsimage/49693.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Biju Patnaik Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            85.816889954442928,
+            20.252665975473413
+        ]
+    }
+}

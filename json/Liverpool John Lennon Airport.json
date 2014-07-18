@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Liverpool John Lennon Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://upload.wikimedia.org/wikipedia/commons/0/09/Crowne_Plaza_Liverpool_John_Lennon_Airport_Hotel_Airside.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Liverpool John Lennon Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.858620657849379,
+            53.336375105442215
+        ]
+    }
+}

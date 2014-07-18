@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Newcastle Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://farm5.staticflickr.com/4006/4579864188_330a1976f7_o.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Newcastle Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.71034578407216,
+            55.037084860801954
+        ]
+    }
+}

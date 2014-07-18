@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Palanga Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://img463.imageshack.us/img463/4958/plq047up9.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Palanga Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.097446398625141,
+            55.971342623535804
+        ]
+    }
+}

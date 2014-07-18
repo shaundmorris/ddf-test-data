@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Amarillo Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.airportimprovement.com/images/201107_Page_06_Image_0001.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Amarillo Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -101.705352772696784,
+            35.218403191939814
+        ]
+    }
+}

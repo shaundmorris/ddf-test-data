@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Tiruchirappalli Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.prajishsankar.com/blog/wp-content/uploads/2009/01/new_tiruchirappalli_trichy_airport.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Tiruchirappalli Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            78.708957874747597,
+            10.76035713065535
+        ]
+    }
+}

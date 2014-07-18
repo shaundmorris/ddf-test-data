@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Bratislava-M.R. Stefanik Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.planephotos.net/photos/p9c759jmkx3aay9e4kby.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Bratislava-M.R. Stefanik Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            17.199985002220789,
+            48.169837906253491
+        ]
+    }
+}

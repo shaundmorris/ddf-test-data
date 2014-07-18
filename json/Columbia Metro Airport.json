@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Columbia Metro Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://upload.wikimedia.org/wikipedia/commons/d/db/Two_Delta_aircraft_at_Columbia_Metropolitan_Airport.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Columbia Metro Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -81.109335242937718,
+            33.934205458427535
+        ]
+    }
+}

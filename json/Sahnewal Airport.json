@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Sahnewal Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://static.indianexpress.com/m-images/Sun%2520Apr%252018%25202010,%252001:03%2520hrs/M_Id_148613_sad_leaders.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Sahnewal Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            75.957072240365179,
+            30.850359856170176
+        ]
+    }
+}

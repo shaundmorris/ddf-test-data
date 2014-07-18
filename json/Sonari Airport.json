@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Sonari Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://myjamshedpur.tk/fact/12.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Sonari Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            86.172466236377574,
+            22.815414511024233
+        ]
+    }
+}

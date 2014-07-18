@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Raja Sansi Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://im.rediff.com/money/2014/may/13india-airport5.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Raja Sansi Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            74.807155971982439,
+            31.706822025888847
+        ]
+    }
+}

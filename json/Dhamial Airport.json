@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Dhamial Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "https://i.ytimg.com/vi/2Lw703drijg/mqdefault.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Dhamial Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            73.032049839200226,
+            33.561414627886052
+        ]
+    }
+}

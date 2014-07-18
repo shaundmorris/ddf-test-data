@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Baton Rouge Metro Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Baton_Rouge_Metropolitan_Airport_-_Louisiana.jpg/250px-Baton_Rouge_Metropolitan_Airport_-_Louisiana.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Baton Rouge Metro Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -91.156754404810485,
+            30.532613804058556
+        ]
+    }
+}

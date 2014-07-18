@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Novosibirsk Tolmachev Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://eyakutia.com/wp-content/gallery/sukhoisuperjet100/sukhoisuperjet100_01.jpeg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Novosibirsk Tolmachev Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            82.667152452586521,
+            55.00958471362636
+        ]
+    }
+}

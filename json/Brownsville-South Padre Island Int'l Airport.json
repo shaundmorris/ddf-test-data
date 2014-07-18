@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Brownsville-South Padre Island Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://image.weather.com/web/radar/us_bro_closeradar_medium_usen.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Brownsville-South Padre Island Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -97.431765340232019,
+            25.906274354534673
+        ]
+    }
+}

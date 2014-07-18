@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Adampur Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://singhstation.net/wp/wp-content/uploads/2013/11/Mumbai_Airport_domestic_aerial1-e1383950526102.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Adampur Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            75.758482845600454,
+            31.432942239771489
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Vava'u Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://flyawaysimulation.com/media/images14/images/Vava%27u-lnternational-Airport-Scenery-fsx-1.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Vava'u Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -173.968093944158767,
+            -18.586005855065373
+        ]
+    }
+}

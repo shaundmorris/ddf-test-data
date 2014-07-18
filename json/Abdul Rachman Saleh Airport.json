@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Abdul Rachman Saleh Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://airport.co.id/indoair/wp-content/uploads/2013/12/Terminal_abdulrahman_saleh.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Abdul Rachman Saleh Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            112.711418617257749,
+            -7.929980028405668
+        ]
+    }
+}

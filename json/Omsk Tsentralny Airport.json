@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Omsk Tsentralny Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://ivaoru.org/sites/default/files/styles/resize_500/public/scenery_screenshots/unoo_scr.jpg%3Fitok%3DTBPgDv5R",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Omsk Tsentralny Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            73.316359537658499,
+            54.957648293405938
+        ]
+    }
+}

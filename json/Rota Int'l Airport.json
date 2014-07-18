@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Rota Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://commondatastorage.googleapis.com/static.panoramio.com/photos/original/57881990.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Rota Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            145.243980298581846,
+            14.171771297121616
+        ]
+    }
+}

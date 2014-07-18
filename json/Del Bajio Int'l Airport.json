@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Del Bajio Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://upload.wikimedia.org/wikipedia/commons/7/7c/Aeropuerto_Internacional_de_Guanajuato.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Del Bajio Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -101.478753382466877,
+            20.985887121193809
+        ]
+    }
+}

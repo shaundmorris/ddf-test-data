@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Cheongju Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://english.people.com.cn/mediafile/201310/25/F201310250825181280823868.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Cheongju Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            127.495916124680846,
+            36.722022776667259
+        ]
+    }
+}

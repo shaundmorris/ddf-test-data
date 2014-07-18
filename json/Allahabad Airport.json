@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Allahabad Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://upload.wikimedia.org/wikipedia/commons/8/8d/Allahabad_Airport_Terminal.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Allahabad Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            81.731727146218716,
+            25.443522027820965
+        ]
+    }
+}

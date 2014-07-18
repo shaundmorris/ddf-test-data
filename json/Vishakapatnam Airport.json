@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Vishakapatnam Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VisakhapatnamAirportBySashi.jpg/250px-VisakhapatnamAirportBySashi.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Vishakapatnam Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            83.223521638746504,
+            17.727957738436402
+        ]
+    }
+}

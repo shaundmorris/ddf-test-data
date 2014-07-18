@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Sakirpasa Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://osimint.com/wp-content/uploads/2013/11/DG-05AUG13-Sakirpasa-Airport-Turkey-Patriots.png",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Sakirpasa Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.296961426833811,
+            36.9852090641795
+        ]
+    }
+}

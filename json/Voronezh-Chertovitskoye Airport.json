@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Voronezh-Chertovitskoye Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.airplane-pictures.net/images/uploaded-images/2013-2/11/268796m.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Voronezh-Chertovitskoye Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.225449644797337,
+            51.812617126834411
+        ]
+    }
+}

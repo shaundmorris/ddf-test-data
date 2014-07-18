@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Calicut Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/t1.0-1/c0.0.50.50/p50x50/1454960_10202729872354475_178223796_t.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Calicut Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            75.950993063051044,
+            11.139552052606399
+        ]
+    }
+}

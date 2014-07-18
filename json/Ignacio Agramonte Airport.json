@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Ignacio Agramonte Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://travelogues.x10.mx/CubanVacations_files/image012.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Ignacio Agramonte Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -77.845103993516659,
+            21.424703728196057
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Surgut Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://static.panoramio.com/photos/large/35831648.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Surgut Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            73.408496476437477,
+            61.340167219448126
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Turbat Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.caapakistan.com.pk/images/Airport/Peshawar-Pic-1.png",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Turbat Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            63.027933351918136,
+            25.988794590011004
+        ]
+    }
+}

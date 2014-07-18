@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Quetta Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.caapakistan.com.pk/images/Airport/Peshawar-Pic-5.png",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Quetta Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.948731148094936,
+            30.249043186181034
+        ]
+    }
+}

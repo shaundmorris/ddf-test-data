@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Changchun Longjia Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.gov.cn/english/images/images/xin_420902010958437247202.JPG",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Changchun Longjia Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            125.690456812998363,
+            43.993011479576971
+        ]
+    }
+}

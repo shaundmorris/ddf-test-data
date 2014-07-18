@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Coimbatore Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.world-airport-codes.com/content/uploads/2013/08/CJB_sujith_p_neatagain_3ehbb7xhb2.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Coimbatore Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            77.038893772262043,
+            11.030141512598268
+        ]
+    }
+}

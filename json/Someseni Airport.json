@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Someseni Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.limos.com/system/media/images/28530/medium/1_19_E-Class.jpg%3F1379876535",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Someseni Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            23.686981268048559,
+            46.782662634024277
+        ]
+    }
+}

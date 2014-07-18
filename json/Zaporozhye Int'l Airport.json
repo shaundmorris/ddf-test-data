@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Zaporozhye Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://lh6.ggpht.com/_sAqCif-2N9U/TP2IcPkc58I/AAAAAAAAAmo/6_JCJ_BYbrg/s800/101207%2520M9.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Zaporozhye Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.301872857527862,
+            47.873263557902284
+        ]
+    }
+}

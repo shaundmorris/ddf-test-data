@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Radin Inten II Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://upload.wikimedia.org/wikipedia/commons/8/8b/Radin_Inten_II.JPG",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Radin Inten II Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            105.176060419161416,
+            -5.242566777131995
+        ]
+    }
+}

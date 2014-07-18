@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Devi Ahilyabai Holkar Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://i1.ytimg.com/vi/C1Nz4B5ritE/0.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Devi Ahilyabai Holkar Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            75.809291500589495,
+            22.72774918757095
+        ]
+    }
+}

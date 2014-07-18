@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Chelyabinsk Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.eju.net/img/news/19df5316a1560306a5c21a53f1e4e761.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Chelyabinsk Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            61.512258974020092,
+            55.297791949605532
+        ]
+    }
+}

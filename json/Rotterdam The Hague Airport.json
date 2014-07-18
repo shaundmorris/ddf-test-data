@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Rotterdam The Hague Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.denhaag.nl/upload/6999614b-7b07-43f0-96c3-d0f024775813_rotterdamthehague.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Rotterdam The Hague Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            4.433844349628765,
+            51.949130189938153
+        ]
+    }
+}

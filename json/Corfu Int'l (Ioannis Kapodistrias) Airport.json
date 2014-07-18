@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Corfu Int'l (Ioannis Kapodistrias) Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://img1.jetphotos.net:8080/img/2/5/4/3/99794_1252965345.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Corfu Int'l (Ioannis Kapodistrias) Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            19.914756164166214,
+            39.60675545052586
+        ]
+    }
+}

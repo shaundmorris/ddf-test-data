@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Charleston Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.postandcourier.com/storyimage/CP/20121116/PC16/121119434/AR/0/AR-121119434.jpg%26maxw%3D800%26q%3D90",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Charleston Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -80.036933743826239,
+            32.884530156296464
+        ]
+    }
+}

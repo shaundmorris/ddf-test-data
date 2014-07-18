@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Alice Springs Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://caama.com.au/wp-content/uploads/2013/07/alice_springs_airport-_td_47b3b76770b84.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Alice Springs Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            133.902918,
+            -23.801968
+        ]
+    }
+}

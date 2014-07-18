@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Gwangju Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://tong.visitkorea.or.kr/enu/TR/273669_1_7.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Gwangju Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            126.810839481226438,
+            35.14000513901977
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Jacinto Lara Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Aeropuerto_Jacinto_Lara.JPG/220px-Aeropuerto_Jacinto_Lara.JPG",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Jacinto Lara Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -69.356102,
+            10.0453
+        ]
+    }
+}

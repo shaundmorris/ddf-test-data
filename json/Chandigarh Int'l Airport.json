@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Chandigarh Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://images.jagran.com/air-india-b-13-12-2011.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Chandigarh Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            76.801726110524172,
+            30.670724894966725
+        ]
+    }
+}

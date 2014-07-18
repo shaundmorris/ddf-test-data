@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Bourgas Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://upload.wikimedia.org/wikipedia/commons/1/16/Sunny_Beach_Burgas_Airport_07.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Bourgas Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            27.51640936629526,
+            42.567083548770192
+        ]
+    }
+}

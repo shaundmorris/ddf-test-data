@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Birmingham Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://wbma.images.worldnow.com/images/21549164_BG1.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Birmingham Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -86.752377361546237,
+            33.561867282805771
+        ]
+    }
+}

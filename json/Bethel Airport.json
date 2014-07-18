@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Bethel Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BET-c.jpg/250px-BET-c.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Bethel Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -161.838986959439694,
+            60.778737983408831
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Bismarck Muni. Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://digitalhorizonsonline.org/cgi-bin/getimage.exe%3FCISOROOT%3D/uw%26CISOPTR%3D78%26DMSCALE%3D100.00000%26DMWIDTH%3D600%26DMHEIGHT%3D600%26DMX%3D0%26DMY%3D0%26DMTEXT%3D%26REC%3D3%26DMTHUMB%3D0%26DMROTATE%3D0",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Bismarck Muni. Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -100.757471303717452,
+            46.775106666161378
+        ]
+    }
+}

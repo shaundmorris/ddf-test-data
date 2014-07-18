@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Daegu Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.excodaegu.co.kr/eng/images/traffic/air_map.gif",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Daegu Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            128.637537699933119,
+            35.899927796908663
+        ]
+    }
+}

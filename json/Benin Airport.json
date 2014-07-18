@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Benin Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://cdn-www.airliners.net/aviation-photos/middle/7/9/6/0815697.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Benin Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            5.603682560067003,
+            6.317166892078184
+        ]
+    }
+}

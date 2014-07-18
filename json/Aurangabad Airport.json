@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Aurangabad Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://upload.wikimedia.org/wikipedia/commons/7/72/Aurangabad_Airport_Air_side_view..JPG",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Aurangabad Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            75.39584329220051,
+            19.867296962108234
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Palonegro Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://upload.wikimedia.org/wikipedia/commons/9/91/Bucaramanga_Palonegro_Airport_approach_PAOC.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Palonegro Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.180920772536069,
+            7.127709154026846
+        ]
+    }
+}

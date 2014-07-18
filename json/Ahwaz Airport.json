@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Ahwaz Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://static.panoramio.com/photos/original/18045005.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Ahwaz Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            48.747106543593127,
+            31.343158556075725
+        ]
+    }
+}

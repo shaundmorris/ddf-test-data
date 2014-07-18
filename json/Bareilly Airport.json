@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Bareilly Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://uttarpra.desh.mobi/image-of/Bareilly-Airport-Airports-In-Uttar-Pradesh.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Bareilly Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            79.452002687657043,
+            28.421808716114356
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Zahedan Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://media.irna.ir/1393/13930220/2685011/2685011-3850832.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Zahedan Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.90070856491495,
+            29.475294195657344
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Ulsan Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://static.panoramio.com/photos/large/21598733.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Ulsan Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            129.355731047528252,
+            35.592895752710689
+        ]
+    }
+}

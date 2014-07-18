@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Burlington Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://stuckattheairport.com/wp-content/uploads/2013/08/Burlington-Airport-penny-machine.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Burlington Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.15507877906677,
+            44.469206604073214
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Jaipur Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://i.ytimg.com/vi/CKf9zL0ubak/0.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Jaipur Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            75.801010419266817,
+            26.821179810060464
+        ]
+    }
+}

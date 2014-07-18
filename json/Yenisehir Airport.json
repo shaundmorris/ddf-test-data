@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Yenisehir Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://flyawaysimulation.com/media/images9/images/Bursa-Yenisehir-Airport-Scenery-fsx1.jpg",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Yenisehir Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            29.54492,
+            40.255539500747304
+        ]
+    }
+}

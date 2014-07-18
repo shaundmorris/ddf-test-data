@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "title": "Bristol Int'l Airport",
+        "thumbnail": "CA==",
+        "resource-uri": "http://www.trails.com/imagecache/accomodations/210x150/48f040f27a8a14bc1eb0ab8159384254-210x150.png",
+        "created": "2012-08-31T23:55:19.518+0000",
+        "metadata-content-type-version": "myVersion",
+        "metadata-content-type": "location",
+        "metadata": "<airport><title>Bristol Int'l Airport</title></airport>",
+        "modified": "2012-08-31T23:55:19.518+0000"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.710864691343084,
+            51.386293418914839
+        ]
+    }
+}
